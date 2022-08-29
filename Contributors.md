@@ -12,6 +12,7 @@
 - [maxkup19](https://github.com/maxkup19)
 - [Meet Rajput](https://github.com/MeetRajput00)
 - [Varun S V](https://github.com/Varun-SV/)
+- [Ricardo Muiambo](https://github.com/rColeJnr)
 - [Varun Ratnani](https://github.com/varun1002)
 - [Crimsonshade](https://github.com/crimsonshade)
 - [narsingojuhemanth](https://github.com/narsingojuhemanth)
